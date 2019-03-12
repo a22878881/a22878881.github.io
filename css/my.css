@@ -1,3 +1,21 @@
-html {
+html { 
+    font-family: 'Noto Sans TC', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
 	font-family: 'Noto Sans TC', sans-serif;
+	text-transform: none;
+}
+body { 
+    font-family: 'Noto Sans TC', sans-serif;
+}
+.stubheading { 
+     font-family: 'Noto Sans TC', sans-serif;
+	 front-size: 1.2rem;
+	 text-transform: none;
+	 letter-spacing: -0.05rem;
+}
+hl .text-primary {
+	front-size: 3rem;
+	letter-spacing: -0.05rem;
+	line-height; 3rem;
 }
