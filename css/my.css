@@ -19,3 +19,10 @@ hl .text-primary {
 	letter-spacing: -0.05rem;
 	line-height; 3rem;
 }
+.graph_set{
+	margin-top: 3rem;
+}
+.bg-primary{
+	background-color: #764e96!important;
+background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
+}
